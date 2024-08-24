@@ -1,14 +1,6 @@
-# kickstart.nvim
-
 ## Introduction
 
-A starting point for Neovim that is:
-
-* Small
-* Single-file
-* Completely Documented
-
-**NOT** a Neovim distribution, but instead a starting point for your configuration.
+My personal neovim configuration.
 
 ## Installation
 
@@ -37,9 +29,6 @@ External Requirements:
 > and quick install snippets
 
 ### Install Kickstart
-
-> **NOTE**
-> [Backup](#FAQ) your previous configuration (if any exists)
 
 Neovim's configurations are located under the following paths, depending on your OS:
 
